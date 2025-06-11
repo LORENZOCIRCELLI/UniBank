@@ -1,4 +1,4 @@
-package com.project.demobank.model.controller;
+package com.project.demobank.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
